@@ -2,7 +2,7 @@
 title: "The SnapCore Philosophy-Modular AGI and Collective Intelligence"
 date: 2026-01-14
 tags: [SnapCore, Philosophy, AGI, Manifesto]
-img: /assets/img/agi.jpg
+img: /assets/img/a.jpg
 ---
 
 ## The SnapCore Philosophy: Modular AGI and Collective Intelligence
