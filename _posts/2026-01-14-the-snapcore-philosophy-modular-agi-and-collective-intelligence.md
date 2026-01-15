@@ -11,7 +11,7 @@ SnapCore is more than software.
 It’s a way of thinking about intelligence itself—modular, collaborative, and transparent.  
 Like our team, future intelligence will thrive not on one founder, but on many voices working together.
 
----
+----
 
 ## 🧠 Core Modules of Intelligence
 
