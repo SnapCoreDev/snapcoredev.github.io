@@ -1,5 +1,5 @@
 ---
-title: Behind the Logo-How SnapCore Found Its Identity
+title: Behind the Logo and Design Pattern-How SnapCore Found Its Identity.
 date: 2026-01-14
 tags: [SnapCore, Branding, Logo, Philosophy]
 
